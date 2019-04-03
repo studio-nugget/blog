@@ -1,0 +1,31 @@
+baseURL = "https://studio-nugget.github.io/blog/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Studio Nugget Devblog"
+theme = "cupper-hugo-theme"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = "Studio Nugget is a small game dev studio comprised of four students."
+  homeMetaContent = "Studio Nugget is a small game dev studio comprised of four students."
+  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
