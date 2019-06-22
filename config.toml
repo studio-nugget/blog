@@ -17,12 +17,12 @@ publishDir = "docs"
 [params]
   description = "Studio Nugget is a four-person game studio working on a game about the Polish Resistance during WW2."
   homeMetaContent = "Studio Nugget is a small game dev studio comprised of four students."
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)."
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
 
 [menu]
   [[menu.nav]]
-    name = "Blog"
+    name = "Devlog"
     url = "/posts/"
     weight = 1
