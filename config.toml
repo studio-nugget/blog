@@ -1,7 +1,7 @@
 baseURL = "https://studio-nugget.github.io/blog/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Studio Nugget Devblog"
+title = "Studio Nugget Devlog"
 theme = "cupper-hugo-theme"
 publishDir = "docs"
 
