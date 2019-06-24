@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studio Nugget Devlog</title>
-    <link>https://studio-nugget.com/</link>
+    <link>https://studionugget.com/</link>
     <description>Recent content on Studio Nugget Devlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2019 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://studio-nugget.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://studionugget.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Operation Tempest – Devlog #1</title>
-      <link>https://studio-nugget.com/posts/1/</link>
+      <link>https://studionugget.com/posts/1/</link>
       <pubDate>Fri, 21 Jun 2019 12:00:00 -0500</pubDate>
       
-      <guid>https://studio-nugget.com/posts/1/</guid>
+      <guid>https://studionugget.com/posts/1/</guid>
       <description>Hello and welcome to the first devlog post for Studio Nugget’s first game, (working title) Operation Tempest!
 My name is Jacob and I am the project lead for Operation Tempest. I’m writing this first of many (sporadic) blog posts to document our project’s journey from the beginning stages to a fully developed game. All of us here at Studio Nugget are now working on this game full time and we’re very excited to begin sharing information about it.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://studio-nugget.com/about/</link>
+      <link>https://studionugget.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://studio-nugget.com/about/</guid>
+      <guid>https://studionugget.com/about/</guid>
       <description></description>
     </item>
     
