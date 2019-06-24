@@ -1,4 +1,4 @@
-baseURL = "https://studio-nugget.github.io/blog/"
+baseURL = "https://studio-nugget.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Studio Nugget Devlog"
