@@ -6,10 +6,19 @@
     <description>Recent content on Studio Nugget Devlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2019 21:23:22 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 22:32:47 -0500</lastBuildDate>
     
 	<atom:link href="https://studionugget.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Operation Tempest – Devlog #3</title>
+      <link>https://studionugget.com/posts/3/</link>
+      <pubDate>Mon, 30 Sep 2019 22:32:47 -0500</pubDate>
+      
+      <guid>https://studionugget.com/posts/3/</guid>
+      <description>My name is Jacob and I’m here to give a final update before we complete the prototype for Operation: Tempest. In the last devlog I talked about the future of the game. I’m happy to report that we’re on track to have a prototype up and running sometime before the end of the month! We have been working hard on a lot of stuff behind the scenes, as much of the design for the beginning elements of the game have already been completed.</description>
+    </item>
     
     <item>
       <title>Operation Tempest – Devlog #2</title>

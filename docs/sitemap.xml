@@ -3,14 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://studionugget.com/posts/2/</loc>
-    <lastmod>2019-08-05T21:23:22-05:00</lastmod>
+    <loc>https://studionugget.com/posts/3/</loc>
+    <lastmod>2019-09-30T22:32:47-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://studionugget.com/</loc>
+    <loc>https://studionugget.com/posts/2/</loc>
     <lastmod>2019-08-05T21:23:22-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -26,6 +25,12 @@
   <url>
     <loc>https://studionugget.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studionugget.com/</loc>
+    <lastmod>2019-09-30T22:32:47-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
