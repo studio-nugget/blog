@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
     font-family: 'Miriam Libre';
-    src: url('https://studionugget.com/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://studionugget.com/css/fonts/miriamlibre-bold.woff') format('woff');
+    src: url('http://localhost:1313/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('http://localhost:1313/css/fonts/miriamlibre-bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
@@ -58,11 +58,12 @@ abbr {
 img {
     max-width: 100%;
     max-height: 50vh;
-    display: block;
-    margin: 1rem auto;
 }
 .img-link {
     border-bottom: none;
+}
+p img {
+    margin: 0.75rem 0;
 }
 figure p img {
     margin: 0;
@@ -75,12 +76,6 @@ figure p img {
 }
 a {
   outline-offset: 2px;
-}
-
-/* Katex math typesetting */
-.katex * {
-    margin-top: 0;
-    background-color: transparent;
 }
 
 /* Fix for IE :( */
@@ -153,6 +148,11 @@ pre,
 code {
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
     font-size: 0.85em;
+    font-weight: bold;
+}
+pre code,
+.code-annotated code {
+    font-weight: normal;
 }
 .cmd {
     padding: 0.75rem;
@@ -356,14 +356,10 @@ caption {
     margin: 0 auto;
     padding: 2.25rem;
 }
-/* added style to make credits less distracting */
 [role="contentinfo"] {
-    font-size: 0.65rem;
+    font-size: 0.85rem;
     margin-top: 4rem;
     text-align: center;
-}
-[role="contentinfo"] div {
-    font-size: 0.85rem;
 }
 
 /* Patterns navigation */
@@ -512,7 +508,7 @@ caption {
 }
 .note.warning {
     border-left: 0;
-    background-image: url(https://studionugget.com/css/images/stripe.svg);
+    background-image: url(http://localhost:1313/css/images/stripe.svg);
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -531,7 +527,7 @@ caption {
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url(https://studionugget.com/css/images/icon-tick.svg);
+    background-image: url(http://localhost:1313/css/images/icon-tick.svg);
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;
